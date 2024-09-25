@@ -25,7 +25,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "vercel-build":"npm run build",
     "test": "react-scripts test",
     "dev":"npm run start-app & npm run start-server",
     "eject": "react-scripts eject"
