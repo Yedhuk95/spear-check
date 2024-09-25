@@ -46,8 +46,3 @@ app.get('/api/notion/:pageId', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server running on port ${port}`);
 });
-<<<<<<< HEAD
-=======
-
-module.exports = app;
->>>>>>> 42a4589932f6ef1b01fe5fbc5458772f6932cd57
